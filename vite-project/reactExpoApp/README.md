@@ -5,7 +5,7 @@ deno install npm:
 npx create-expo-app@latest
 
 ```
-## please assure that your path is not included chinese and your laptop and phone have the same internet.
+## please ensure that your path does not include Chinese and that your laptop and phone have the same internet.
 
 # Welcome to your Expo app 👋
 
