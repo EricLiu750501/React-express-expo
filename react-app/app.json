@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactExpoApp",
-    "slug": "reactExpoApp",
+    "name": "react-app",
+    "slug": "react-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,8 +19,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.erichong080911.reactExpoApp"
+      }
     },
     "web": {
       "bundler": "metro",
@@ -32,11 +31,6 @@
     ],
     "experiments": {
       "typedRoutes": true
-    },
-    "extra": {
-      "eas": {
-        "projectId": "0eb7e363-63db-4f2e-bd43-7c764d63d7f3"
-      }
     }
   }
 }

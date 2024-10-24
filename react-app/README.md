@@ -1,12 +1,3 @@
-# start build
-```bash
-deno install npm:
-
-npx create-expo-app@latest
-
-```
-## please ensure that your path does not include Chinese and that your laptop and phone have the same internet.
-
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
